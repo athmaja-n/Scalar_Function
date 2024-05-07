@@ -1,0 +1,3 @@
+/Users/athmajan/neilsen_function/build/CMakeFiles/myProgram.dir
+/Users/athmajan/neilsen_function/build/CMakeFiles/edit_cache.dir
+/Users/athmajan/neilsen_function/build/CMakeFiles/rebuild_cache.dir
